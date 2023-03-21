@@ -1,0 +1,40 @@
+body{
+    background-color: aquamarine;
+    background-image: url(assets/images/kids-desk-creative-workspace-school-260nw-1934540510.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.best
+{
+    font-size:x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;color: darkblue;
+
+}
+.jop{
+    
+    font-size:x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;color: darkblue;
+    background-image: url(assets/images/different-stationery-on-yellow-background-260nw-1898376541.webp);
+}
+.top
+{
+    
+    font-size:x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;color: darkblue;
+    background-image: url(assets/images/back-to-school-background-copy-space-121767227.jpg);
+}
+.pop{
+    
+    font-size:x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;color: darkblue;
+    background-image: url(assets/images/frozen-bubble-1943224_1280.jpg);
+}
